@@ -1,4 +1,4 @@
-# Hi there, I'm Jhon Felipe Delgado Salazar! 👋
+# Hi there, I'm Jhon Felipe Delgado ! 👋
 
 ## 🚀 About Me
 I'm a **Machine Learning Expert** passionate about robotics, machine learning, and natural language processing. Currently serving as an **Assistant Professor** at **Universidad Nacional de Colombia**, I merge my passions by teaching the wonders of technology. Additionally, I'm on an exciting journey pursuing a **Master's in Systems and Computing Engineering**, continuously expanding my knowledge in this ever-evolving field.
@@ -23,9 +23,6 @@ At **Millenium BPO**, I've led groundbreaking projects with chatbots and voicebo
 ## 📚 Courses and Certifications
 - **Three.js Journey**, Three.js Journey, Nov 2023.
 - **Intermediate PostgreSQL**, Coursera, May 2021.
-
-## 📈 GitHub Stats
-![Jhon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonfel&show_icons=true&theme=radical)
 
 ## 💬 Let's Connect!
 I love connecting with people interested in technology and innovation. If you want to discuss robotics, machine learning, or just want to say hi, feel free to reach out!
