@@ -1,33 +1,27 @@
-# Hi there, I'm Jhon Felipe Delgado ! 👋
+# Hi, I'm Jhon Felipe Delgado 👋
 
-## 🚀 About Me
-I'm a Machine Learning Expert passionate about robotics, machine learning, and natural language processing. Currently serving as an Assistant Professor at Universidad Nacional de Colombia and working as a DS Engineer at MercadoLibre, where I apply cutting-edge ML solutions to enhance Latin America's leading e-commerce platform. I merge these passions by teaching the wonders of technology while pursuing a Master's in Systems and Computing Engineering.
+ML Engineer at **MercadoLibre**, occasional professor and PhD student at **Universidad Nacional de Colombia**. Mechatronics engineer by training, so I tend to end up somewhere between models, code and hardware.
 
-At **Millenium BPO**, I've led groundbreaking projects with chatbots and voicebots, exploring the immense potential of machine learning to enhance human-machine communication. I'm also a co-founder of **SamiBot**, a startup focused on integrated robotic solutions aiming to boost our daily efficiency and creativity.
+### What I'm doing now
+- 🤖 **ML Engineer at MercadoLibre.** I joined as a DS Engineer, moved to Data Engineering, and now work on ML.
+- 🎓 **Teaching *Introducción a los Sistemas Inteligentes* at UNAL.** The course program, weekly lessons and workshops are at [introsistemasinteligentes.com](https://introsistemasinteligentes.com). Before that I was a teaching assistant for the first programming course.
+- 📚 **PhD student at UNAL**, after finishing my Master's in Systems and Computing Engineering there.
 
-🌱 **Interests:** Robotics, Machine Learning, NLP, Technological Innovation, Engineering Education.
+### Before
+- **Senior NLP Engineer at Millenium BPO**: chatbots and voicebots in production.
+- **Co-founder of SamiBot**, a robotics startup.
 
-## 🎓 Education
-- **Master's Degree in Systems and Computing Engineering**, Universidad Nacional de Colombia, 2024-2026.
-- **Bachelor's Degree in Mechatronic Engineering**, Universidad Nacional de Colombia, 2013-2020.
+### Things I've built
+- [**introsistemasinteligentes.com**](https://introsistemasinteligentes.com): course site for Intelligent Systems at UNAL.
+- [**sunshine-hyprland-virtual-display**](https://github.com/Jhonfel/sunshine-hyprland-virtual-display/tree/client-resolution-hdr): Apollo-style virtual display for game streaming on Linux (Hyprland + Sunshine). It matches each client's resolution and refresh rate and does end-to-end HDR10, which needed patches to both Sunshine and Hyprland.
+- [**documentation-rag-poc**](https://github.com/Jhonfel/documentation-rag-poc): agentic RAG for answering questions over documentation.
+- [**toxic-text-detection**](https://github.com/Jhonfel/toxic-text-detection): NLP classifier for toxic text.
+- [**AusculApp**](https://github.com/Jhonfel/AusculApp): iOS app for remote auscultation.
 
-## 💼 Experience
-- **DS Engineer**, MercadoLibre. Oct 2024 - Present.
-- **Assistant Professor**, Universidad Nacional de Colombia. Jan 2024 - Present.
-- **Co-Founder & ML Engineer**, SamiBot. Apr 2023 - Present.
-- **Senior NLP Engineer**, Millenium BPO. May 2022 - Oct 2024.
+### Tools I use a lot
+Python · machine learning & NLP · data engineering · Swift · JavaScript/React · Linux (Arch + Hyprland)
 
-## 🛠 Skills
-- **Programming Languages:** Python.
-- **Specializations:** Machine Learning, Natural Language Processing (NLP), Cybersecurity.
+### Contact
+[![LinkedIn](https://img.shields.io/badge/-Jhon_Felipe_Delgado_Salazar-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-felipe-delgado-salazar-732427161)
 
-## 📚 Courses and Certifications
-- **Three.js Journey**, Three.js Journey, Nov 2023.
-- **Intermediate PostgreSQL**, Coursera, May 2021.
-
-## 💬 Let's Connect!
-I love connecting with people interested in technology and innovation. If you want to discuss robotics, machine learning, or just want to say hi, feel free to reach out!
-
-[![LinkedIn Badge](https://img.shields.io/badge/-Jhon_Felipe_Delgado_Salazar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhon-felipe-delgado-salazar-732427161)](https://www.linkedin.com/in/jhon-felipe-delgado-salazar-732427161)
-
-Thank you for visiting my GitHub profile! 🌟
+Happy to talk about ML, teaching, robotics or Linux setups.
