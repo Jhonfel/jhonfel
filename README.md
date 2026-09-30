@@ -14,7 +14,7 @@ ML Engineer at **MercadoLibre**, adjunct professor and PhD student at **Universi
 
 ### Teaching
 - 🎓 **Adjunct professor (*profesor ocasional*) at UNAL**, teaching *Introducción a los Sistemas Inteligentes*. The course program, weekly lessons and workshops are at [introsistemasinteligentes.com](https://introsistemasinteligentes.com).
-- Before that, teaching assistant for the first programming course.
+- Before that, during my Master's, taught the introductory programming course as a graduate instructor (*profesor asistente*).
 
 ### Research
 - 📚 **PhD student at UNAL**, after finishing my Master's in Systems and Computing Engineering there.
