@@ -25,6 +25,7 @@ ML Engineer at **MercadoLibre**, adjunct professor and PhD student at **Universi
 
 ### Things I've built
 - [**jhonfel.github.io**](https://jhonfel.github.io): my personal site, an interactive workbench rendered with WebGPU.
+- [**whisper-inference-bench**](https://github.com/Jhonfel/whisper-inference-bench): benchmark of Whisper on an RTX 5090. OpenAI's reference implementation vs the transformers recipe (about 2× faster on long audio), plus SageAttention 2 and 3 as transformers attention backends, with an encoder profile and all measured results.
 - [**introsistemasinteligentes.com**](https://introsistemasinteligentes.com): course site for Intelligent Systems at UNAL.
 - [**documentation-rag-poc**](https://github.com/Jhonfel/documentation-rag-poc): agentic RAG for answering questions over documentation.
 - [**toxic-text-detection**](https://github.com/Jhonfel/toxic-text-detection): NLP classifier for toxic text.
