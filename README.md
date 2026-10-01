@@ -26,9 +26,11 @@ ML Engineer at **MercadoLibre**, adjunct professor and PhD student at **Universi
 ### Things I've built
 - [**jhonfel.github.io**](https://jhonfel.github.io): my personal site, an interactive workbench rendered with WebGPU.
 - [**introsistemasinteligentes.com**](https://introsistemasinteligentes.com): course site for Intelligent Systems at UNAL.
-- [**sunshine-hyprland-virtual-display**](https://github.com/Jhonfel/sunshine-hyprland-virtual-display/tree/client-resolution-hdr): Apollo-style virtual display for game streaming on Linux (Hyprland + Sunshine). It matches each client's resolution and refresh rate and does end-to-end HDR10, which needed patches to both Sunshine and Hyprland.
 - [**documentation-rag-poc**](https://github.com/Jhonfel/documentation-rag-poc): agentic RAG for answering questions over documentation.
 - [**toxic-text-detection**](https://github.com/Jhonfel/toxic-text-detection): NLP classifier for toxic text.
+
+### Open-source contributions
+- [**jhonsnake/sunshine-hyprland-virtual-display · PR #4**](https://github.com/jhonsnake/sunshine-hyprland-virtual-display/pull/4): per-client resolution and refresh-rate matching and end-to-end HDR10 streaming for an Apollo-style virtual display on Linux (Hyprland + Sunshine), including a Hyprland screencopy patch. The Sunshine side relies on [LizardByte/Sunshine#5615](https://github.com/LizardByte/Sunshine/pull/5615).
 
 ### Other
 - President of RAS – CEIMTUN at Universidad Nacional de Colombia (2018).
